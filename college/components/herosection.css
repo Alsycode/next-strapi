@@ -1,0 +1,5 @@
+.hero{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)), url("../public/images/back.jpg") center/cover no-repeat;
+    justify-content: stretch;
+}
